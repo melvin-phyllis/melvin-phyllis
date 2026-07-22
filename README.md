@@ -66,7 +66,30 @@ const melvin = {
 
 <br/>
 
-`n8n` · `Make` · `Ionic React` · `Power BI` · `Airflow`
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" alt="n8n"/><br/>
+      <sub><b>n8n</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/make/6D00CC" width="42" alt="Make"/><br/>
+      <sub><b>Make</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/ionic/3880FF" width="42" alt="Ionic"/><br/>
+      <sub><b>Ionic React</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" alt="Power BI"/><br/>
+      <sub><b>Power BI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="42" alt="Airflow"/><br/>
+      <sub><b>Airflow</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
