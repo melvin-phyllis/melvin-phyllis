@@ -139,7 +139,6 @@ ERP centralisant la gestion des ressources humaines, du patrimoine, du courrier,
 </div>
 
 ---
-
 ## 🐍 Mes contributions
 
 <div align="center">
@@ -147,20 +146,19 @@ ERP centralisant la gestion des ressources humaines, du patrimoine, du courrier,
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/melvin-phyllis/melvin-phyllis/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/melvin-phyllis/melvin-phyllis/gh-pages/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/melvin-phyllis/melvin-phyllis/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/melvin-phyllis/melvin-phyllis/gh-pages/github-contribution-grid-snake.svg"
   />
   <img
-    alt="Animation snake des contributions GitHub"
-    src="https://raw.githubusercontent.com/melvin-phyllis/melvin-phyllis/output/github-contribution-grid-snake.svg"
+    alt="Animation de mes contributions GitHub"
+    src="https://raw.githubusercontent.com/melvin-phyllis/melvin-phyllis/gh-pages/github-contribution-grid-snake.svg"
   />
 </picture>
 
 </div>
-
 ---
 
 ## 🎯 Actuellement
