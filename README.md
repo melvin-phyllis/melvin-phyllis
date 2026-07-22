@@ -54,39 +54,124 @@ const melvin = {
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind&perline=8" alt="Technologies frontend"/>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" alt="Angular"/><br/>
+      <sub><b>Angular</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/><br/>
+      <sub><b>Tailwind</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Backend et bases de données
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql&perline=6" alt="Technologies backend"/>
-
-### Outils
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&perline=5" alt="Outils de développement"/>
-
-<br/>
-
-<table align="center">
+<table>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" alt="n8n"/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js"/><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP"/><br/>
+      <sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" alt="Laravel"/><br/>
+      <sub><b>Laravel</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Automatisation, mobile et données
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/><br/>
       <sub><b>n8n</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/make/6D00CC" width="42" alt="Make"/><br/>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/make/6D00CC" width="48" height="48" alt="Make"/><br/>
       <sub><b>Make</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/ionic/3880FF" width="42" alt="Ionic"/><br/>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/ionic/3880FF" width="48" height="48" alt="Ionic"/><br/>
       <sub><b>Ionic React</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" alt="Power BI"/><br/>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI"/><br/>
       <sub><b>Power BI</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="42" alt="Airflow"/><br/>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48" height="48" alt="Apache Airflow"/><br/>
       <sub><b>Airflow</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Outils de développement
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br/>
+      <sub><b>VS Code</b></sub>
     </td>
   </tr>
 </table>
