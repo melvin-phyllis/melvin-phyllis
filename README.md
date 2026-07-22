@@ -139,7 +139,7 @@ const melvin = {
       <sub><b>Ionic React</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI"/><br/>
+      <img src="https://avatars.githubusercontent.com/u/42988494?s=200&v=4" width="48" height="48" alt="Power BI"/><br/>
       <sub><b>Power BI</b></sub>
     </td>
     <td align="center" width="110">
