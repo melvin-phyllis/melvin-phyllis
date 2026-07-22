@@ -30,7 +30,7 @@
 
 ## 👨🏾‍💻 À propos de moi
 
-Je suis **Akou Melvin**, développeur **Full-Stack JavaScript/PHP** basé en Côte d’Ivoire.
+Je suis **Akou Melvin**, développeur **Full-Stack JavaScript/PHP**.
 
 Je conçois des applications web modernes et performantes, avec une attention particulière portée à l’expérience utilisateur, aux API et à la qualité du code. Ma formation en **Développement d’Applications & E-Services**, complétée par une formation intensive en développement logiciel avec compétences en IA, me permet d’intervenir du frontend au backend.
 
