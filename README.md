@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0ea5e9,100:22c55e&text=Akou%20Melvin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack%20JavaScript&descAlignY=60&animation=fadeIn" alt="Bannière Akou Melvin"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0ea5e9,100:22c55e&text=Akou%20Melvin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack%20JavaScript/PHP&descAlignY=60&animation=fadeIn" alt="Bannière Akou Melvin"/>
 
 <a href="https://melvin-dev.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&center=true&vCenter=true&width=760&lines=Je+cr%C3%A9e+des+applications+web+modernes+et+performantes;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Du+frontend+au+backend%2C+je+transforme+les+id%C3%A9es+en+produits;Bas%C3%A9+en+C%C3%B4te+d%E2%80%99Ivoire+%F0%9F%87%A8%F0%9F%87%AE" alt="Animation de présentation"/>
