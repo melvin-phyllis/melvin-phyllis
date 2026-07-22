@@ -144,9 +144,20 @@ ERP centralisant la gestion des ressources humaines, du patrimoine, du courrier,
 
 <div align="center">
 
-<!-- Cette animation est générée automatiquement par le workflow GitHub Actions fourni. -->
-<img src="https://raw.githubusercontent.com/melvin-phyllis/melvin-phyllis/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Animation snake des contributions en mode sombre"/>
-<img src="https://raw.githubusercontent.com/melvin-phyllis/melvin-phyllis/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Animation snake des contributions en mode clair"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/melvin-phyllis/melvin-phyllis/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/melvin-phyllis/melvin-phyllis/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animation snake des contributions GitHub"
+    src="https://raw.githubusercontent.com/melvin-phyllis/melvin-phyllis/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
