@@ -13,7 +13,7 @@
 <a href="https://melvin-dev.com">
   <img src="https://img.shields.io/badge/Portfolio-melvin--dev.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="mailto:akoumelvinpro@gmail.com">
+<a href="mailto:melvinphyllisakou@gmail.com">
   <img src="https://img.shields.io/badge/Email-Me%20contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/melvin-phyllis?tab=repositories">
@@ -30,7 +30,7 @@
 
 ## 👨🏾‍💻 À propos de moi
 
-Je suis **Akou Melvin**, développeur **Full-Stack JavaScript** basé en Côte d’Ivoire.
+Je suis **Akou Melvin**, développeur **Full-Stack JavaScript/PHP** basé en Côte d’Ivoire.
 
 Je conçois des applications web modernes et performantes, avec une attention particulière portée à l’expérience utilisateur, aux API et à la qualité du code. Ma formation en **Développement d’Applications & E-Services**, complétée par une formation intensive en développement logiciel avec compétences en IA, me permet d’intervenir du frontend au backend.
 
@@ -170,7 +170,7 @@ ERP centralisant la gestion des ressources humaines, du patrimoine, du courrier,
 
 ### Une idée de projet ou une opportunité de collaboration ?
 
-<a href="mailto:akoumelvinpro@gmail.com">
+<a href="mailto:melvinphyllisakou@gmail.com">
   <img src="https://img.shields.io/badge/Parlons%20de%20votre%20projet-Me%20contacter-22c55e?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Me contacter"/>
 </a>
 
