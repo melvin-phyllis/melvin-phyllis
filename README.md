@@ -182,50 +182,6 @@ const melvin = {
 
 ## 🚀 Projets sélectionnés
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧑🏾‍💼 ManageX
-
-Système avancé de gestion RH permettant de gérer les employés, les rôles, les tâches internes et le suivi des activités en temps réel.
-
-**Fonctionnalités clés :**
-- Gestion des employés et des rôles
-- Attribution et suivi des tâches
-- Suivi des activités en temps réel
-
-</td>
-<td width="50%" valign="top">
-
-### 🧾 Devis Consulting
-
-Application de création, validation et suivi des devis, intégrant la gestion des clients, des services, des tarifs et des statuts.
-
-**Fonctionnalités clés :**
-- Création et validation des devis
-- Gestion des clients et services
-- Suivi du processus commercial
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🏢 OIPI ERP
-
-ERP centralisant la gestion des ressources humaines, du patrimoine, du courrier, des visiteurs et du suivi-évaluation.
-
-**Fonctionnalités clés :**
-- Gestion administrative centralisée
-- Rôles et droits d’accès avancés
-- Pointage géolocalisé
-- Exports et suivi-évaluation
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 [![Découvrir mes projets](https://img.shields.io/badge/D%C3%A9couvrir%20mes%20projets-sur%20mon%20portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://melvin-dev.com/#projets)
