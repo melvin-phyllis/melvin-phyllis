@@ -129,18 +129,13 @@ ERP centralisant la gestion des ressources humaines, du patrimoine, du courrier,
 ## 📈 Statistiques GitHub
 
 <div align="center">
-
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=melvin-phyllis&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&locale=fr" alt="Statistiques GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvin-phyllis&layout=compact&hide_border=true&theme=transparent&locale=fr" alt="Langages les plus utilisés"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=melvin-phyllis&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&locale=fr" alt="Statistiques GitHub"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=melvin-phyllis&layout=compact&hide_border=true&theme=transparent&locale=fr" alt="Langages les plus utilisés"/>
 </p>
-
 <img src="https://streak-stats.demolab.com?user=melvin-phyllis&hide_border=true&theme=transparent&locale=fr&date_format=j%20M%5B%20Y%5D" alt="Série de contributions"/>
-
 <br/><br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=melvin-phyllis&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophées GitHub"/>
-
 </div>
 
 ---
@@ -159,8 +154,8 @@ ERP centralisant la gestion des ressources humaines, du patrimoine, du courrier,
 
 ## 🎯 Actuellement
 
-- Je renforce mes compétences en développement Full-Stack JavaScript.
-- Je construis des applications avec React, Next.js, Node.js et Express.
+- Je renforce mes compétences en développement Full-Stack JavaScript/PHP.
+- Je construis des applications avec React, Angular, Next.js, Node.js, Express et Laravel.
 - J’explore l’automatisation avec n8n et Make.
 - Je travaille sur des solutions concrètes répondant à des besoins métiers.
 
